@@ -1,6 +1,6 @@
 # **Projet : EatSmart**
 
-**Etudiants :** Abdelli
+**Etudiant :** Abdelli
 
 ---
 
