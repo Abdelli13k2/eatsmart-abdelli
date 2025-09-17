@@ -8,7 +8,7 @@
 
 (Complétez ici avec la description du projet présentée en classe.)
 
-<img src="./assets/img/schéma projet.png">
+<img width="924" height="450" alt="schéma projet" src="https://github.com/user-attachments/assets/971461a9-3505-4dcf-b583-75c209ec63da" />
 
 ---
 
