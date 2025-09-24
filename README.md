@@ -4,7 +4,7 @@
 
 ---
 
-### **1. Description du projet**
+### **1. Schéma du projet**
 
 
 <img width="924" height="450" alt="schéma projet" src="https://github.com/user-attachments/assets/971461a9-3505-4dcf-b583-75c209ec63da" />
@@ -38,7 +38,16 @@
 - **Backend :** API
 - **Base de données :** SQL
 
-
-<img width="924" height="450" alt="MCD,MLD,MPD" src="https://github.com/user-attachments/assets/971461a9-3505-4dcf-b583-75c209ec63da" />
-
 ---
+
+### **5. Schéma du Modèle Conceptuel de Données (MCD)**
+
+![Schéma du MCD](assets/img/mcd.png)
+
+### **5. Schéma du Modèle Logique de Données (MLD)**
+
+![Schéma du MCD](assets/img/mld.png)
+
+### **5. Schéma du Modèle Physique de Données (MPD)**
+
+![Schéma du MCD](assets/img/mpd.png)
