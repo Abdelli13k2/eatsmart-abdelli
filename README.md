@@ -44,10 +44,10 @@
 
 ![Schéma du MCD](assets/img/mcd.png)
 
-### **5. Schéma du Modèle Logique de Données (MLD)**
+### **6. Schéma du Modèle Logique de Données (MLD)**
 
 ![Schéma du MCD](assets/img/mld.png)
 
-### **5. Schéma du Modèle Physique de Données (MPD)**
+### **7. Schéma du Modèle Physique de Données (MPD)**
 
 ![Schéma du MCD](assets/img/mpd.png)
