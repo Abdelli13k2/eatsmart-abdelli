@@ -7,7 +7,7 @@
 ### **1. Schéma du projet**
 
 
-<img width="924" height="450" alt="schéma projet" src="https://github.com/user-attachments/assets/971461a9-3505-4dcf-b583-75c209ec63da" />
+![Schéma du MCD](assets/img/schema.png)
 
 ---
 
