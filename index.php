@@ -30,10 +30,10 @@ if (empty($_GET["page"])) {
             // Si un second segment est présent (ex: un ID), on l’utilise
             if (isset($url[1])) {
                 // Exemple : /articles/3 → affiche les infos de l'article 3
-                echo "Afficher les informations de l'article : ".$url[1];
+                $articleController->getArticleById($url[1]);
             } else {
                 // Sinon, on affiche tous les articles
-                echo "Afficher les informations des articles";
+                $articleController->getAllArticles();
             }
             break;
         

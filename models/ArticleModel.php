@@ -27,10 +27,10 @@ class ArticleModel
         $stmt = $this->pdo->prepare($req);
         $stmt->bindValue(":idArticle", $idArticle, PDO::PARAM_INT);
         $stmt->execute();
-        $trajet = $stmt->fetchAll(PDO::FETCH_ASSOC);
+        $article = $stmt->fetchAll(PDO::FETCH_ASSOC);
         return $article;
     }
 }
 
-$articleModel = new ArticleModel();
-print_r($articleModel->getDBAllArticles());
+//$articleModel = new ArticleModel();
+//print_r($articleModel->getDBAllArticles());
