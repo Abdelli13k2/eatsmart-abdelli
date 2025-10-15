@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le : mer. 24 sep. 2025 à 23:32
+-- Généré le : mer. 01 oct. 2025 à 20:20
 -- Version du serveur :  5.7.31
 -- Version de PHP : 7.3.21
 
@@ -20,8 +20,6 @@ SET time_zone = "+00:00";
 --
 -- Base de données : `eatsmart_bdd_abdelli`
 --
-CREATE DATABASE IF NOT EXISTS `eatsmart_bdd_abdelli` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `eatsmart_bdd_abdelli`;
 
 -- --------------------------------------------------------
 
