@@ -1,6 +1,6 @@
 <?php
 
-require_once "models/CategorieModel.php";
+require_once "../models/CategorieModel.php";
 
 class CategorieController
 {
@@ -18,9 +18,9 @@ class CategorieController
     }
 
     public function getCategorieById ($idCategorie) {
-        $lignesCategorie = $this->model->getDBCategorieById($idCategorie);
+        $lignesCategorie = $this->categorieModel->getDBCategorieById($idCategorie);
         echo json_encode($lignesCategorie);
     }
 }
-// $categorieController = new CategorieController();
-// $categorieController->getAllCategories();
+ $categorieController = new CategorieController();
+ $categorieController->getAllCategories();

@@ -41,10 +41,10 @@ if (empty($_GET["page"])) {
             // Si un second segment est présent (ex: un ID), on l’utilise
             if (isset($url[1])) {
                 // Exemple : /catégories/3 → affiche les infos de la catégorie 3
-                echo "Afficher les informations de la catégorie : ".$url[1];
+                $categorieController->getCategorieById($url[1]);
             } else {
                 // Sinon, on affiche toutes les catégories
-                echo "Afficher les informations des catégories";
+                $categorieController->getAllCategories();
             }
             break;
             
