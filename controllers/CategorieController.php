@@ -1,6 +1,6 @@
 <?php
 
-require_once "../models/CategorieModel.php";
+require_once "models/CategorieModel.php";
 
 class CategorieController
 {
