@@ -54,7 +54,7 @@
 
 ## Endpoints de l'API
 
-Adresse de l'API (en local) : http://localhost/eatsmart-abdelli/index.php?page
+Adresse de l'API (en local) : http://localhost/eatsmart-abdelli
 
 Voici les différents endpoints de l'API : 
 - `GET /articles` → Afficher la liste des articles
